@@ -1,0 +1,4 @@
+kexpert\stepDefinitions\TodoStepDefinitions.class
+kexpert\features\E2ECRUDTest.class
+kexpert\ui\TodoPage.class
+kexpert\steps\TodoSteps.class
